@@ -2,7 +2,7 @@
 # 🐱 Hidden Cat Photo – Steganography Demo (Windows · Linux · Termux)
 
 <p align="center">
-  <img src="cat.jpg" alt="Hidden Cat Thumbnail" width="420"/>
+  <img src="thumbnail/cat_thump.jpg" alt="Hidden Cat Thumbnail" width="420"/>
 </p>
 
 > A harmless-looking cat photo that secretly contains hidden files.  
